@@ -7,8 +7,8 @@
 Just another person trying to embrace his passion.
 
 ### 📊 Statistics
-![TwinProduction's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-v)
-![TwinProduction's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksim-v&show_icons=true&count_private=true&line_height=40)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-v)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksim-v&show_icons=true&count_private=true&line_height=40)
 
 
 <!--
