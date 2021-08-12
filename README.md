@@ -7,7 +7,7 @@
 Just another person trying to embrace his passion.
 
 ### 📊 Statistics
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-v)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-v&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksim-v&theme=radical&show_icons=true)
 
 - 📫 How to reach me: [vk.com](vk.com/forsaken96) [Gmail](max270071@gmail.com)
