@@ -10,7 +10,7 @@ Just another person trying to embrace his passion.
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-v&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksim-v&theme=radical&show_icons=true&count_private=true&line_height=25&hide_title=true)
 
-- 📫 How to reach me: [Gmail](max270071@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:max270071@gmail.com)
 - 💬 My Social network profiles: 🌌 [vk.com](vk.com/forsaken96) 📷 [Instagram](https://www.instagram.com/maksonsb/)
 
 ## 😂 Here is a random joke that'll make you laugh!
