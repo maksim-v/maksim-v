@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=maksim-v&label=views)
-[![Follow TwinProduction](https://img.shields.io/github/followers/TwinProduction?label=Follow&style=social)](https://github.com/maksim-v)
+[![Follow Maksim-V](https://img.shields.io/github/followers/maksim-v?label=Follow&style=social)](https://github.com/maksim-v)
 
 
 Just another person trying to embrace his passion.
 
 ### 📊 Statistics
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-v)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksim-v&show_icons=true&count_private=true&line_height=40)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
 
-- 📫 How to reach me: vk.com/forsaken96
+- 📫 How to reach me: [vk.com](vk.com/forsaken96) [Gmail](max270071@gmail.com)
 
 <!--
 **maksim-v/maksim-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
