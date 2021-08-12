@@ -10,7 +10,11 @@ Just another person trying to embrace his passion.
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-v&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksim-v&theme=radical&show_icons=true&count_private=true&line_height=25&hide_title=true)
 
-- 📫 How to reach me: [vk.com](vk.com/forsaken96) [Gmail](max270071@gmail.com)
+- 📫 How to reach me: [Gmail](max270071@gmail.com)
+- 💬 My Social network profiles: 🌌 [vk.com](vk.com/forsaken96) 📷 [Instagram](https://www.instagram.com/maksonsb/)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23141321&borderColor=%23fff&qColor=%23D83B7D&aColor=%23F7D747&textColor=%23A8FDF6)
 
 <!--
 **maksim-v/maksim-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
