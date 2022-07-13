@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maksim</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maksim-v" alt="maksim-v" /></a> </p>
-
 - 🔭 I’m currently working on **Kimbu - new messenger experience**
 
 - 🌱 I’m currently learning **Swift and ML**
