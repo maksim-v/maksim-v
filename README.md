@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksim</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on **Kimbu - new messenger experience**
+- 🔭 I’m currently working on **LingoPraxis - new learning language experience**
 
 - 🌱 I’m currently learning **Swift and ML**
 
